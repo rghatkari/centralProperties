@@ -1,0 +1,5 @@
+spring.application.name=MicroservicesConfigServer
+server.port=9090
+spring.cloud.config.server.git.uri=file://Users/rghatkari/Personal/projects/coding/microservices/centralProperties/centralProperties/
+SPRING_PROFILES_ACTIVE=native
+
